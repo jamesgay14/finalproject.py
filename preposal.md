@@ -4,7 +4,7 @@
 
 Music search engine which displays songwriting/producing credits (not sure how plausible that is or what I would use to make it?).
 
-Side scroller video game using either PICO 8 or GB Studio/
+Side scroller video game using either PICO 8 or GB Studio.
 
 ## If you plan to collaborate with one or two classmates, what are their names?
 
